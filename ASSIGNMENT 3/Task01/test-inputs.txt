@@ -1,0 +1,14 @@
+Test 1: 1001, 500
+Expected: Successful withdrawal
+
+Test 2: 1001, 6000
+Expected: Insufficient account balance
+
+Test 3: 1001, -200
+Expected: Negative amount handled
+
+Test 4: ABC
+Expected: InputMismatchException handled
+
+Test 5: Remove cardreader.txt
+Expected: FileNotFoundException handled

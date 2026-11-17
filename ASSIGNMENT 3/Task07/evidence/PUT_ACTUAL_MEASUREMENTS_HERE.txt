@@ -1,0 +1,9 @@
+Run ResultProcessingSystem.java.
+Record actual times for 1, 2, 4 and 8 threads here.
+
+Example table format:
+Threads | Time (ms) | Successful | Failed
+1       |           | 4          | 2
+2       |           | 4          | 2
+4       |           | 4          | 2
+8       |           | 4          | 2
